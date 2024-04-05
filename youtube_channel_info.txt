@@ -1,6 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+凤凰中文台 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
+https://www.youtube.com/watch?v=HFib76ySpbU
 
 中天新闻台 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
@@ -8,11 +10,17 @@ https://www.youtube.com/watch?v=oIgbl7t0S_w
 TVBS NEWS | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
 https://www.youtube.com/live/m_dhMSvUCIc?si=LaM64KmnGrlBhmOh
 
+TVBS 56频道 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+TVBS 新闻台 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
+https://www.youtube.com/watch?v=5wwvvibt7Qo
+
 東森新聞 CH51 | 海外 |  https://jzpf-1.jzpf.top/WechatIMG481.png|
 https://www.youtube.com/watch?v=2dfAzcDf8Zg
 
-東森新聞世界日報 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
-https://www.youtube.com/watch?v=6gXbFIaRJt0
+東森新聞 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
+https://www.youtube.com/watch?v=E0zhe2gkXBs
 
 寰宇新聞台 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
 https://www.youtube.com/watch?v=6IquAgfvYmc
@@ -50,6 +58,18 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 鏡新聞 | 海外 |  https://jzpf-1.jzpf.top/WechatIMG481.png|
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
+壹新聞 | 海外 |  https://jzpf-1.jzpf.top/WechatIMG481.png|
+https://www.youtube.com/watch?v=coS2TVa_wC8
+
+新唐人LIVE | 海外 |  https://jzpf-1.jzpf.top/WechatIMG481.png|
+https://www.youtube.com/watch?v=WIhgU_mc05A
+
+CNA| 海外 |  https://jzpf-1.jzpf.top/WechatIMG481.png|
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
 ANNnews 全日本新聞網 | 海外 | https://jzpf-1.jzpf.top/WechatIMG481.png |
 https://www.youtube.com/live/coYw-eVU0Ks?si=jTsXdpz9yaVD4rdU
+
+24H备用节点推送 | 福利 | https://jzpf-1.jzpf.top/WechatIMG481.png |
+https://www.youtube.com/watch?v=uSkT4MwpCYA
 
