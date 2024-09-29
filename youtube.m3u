@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 4K风景-音乐
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727623011/ei/Axv5ZqeTEPvCsfIP1uaxiAc/ip/20.172.7.68/id/uXNU0XgGZhs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxY_tn63c0tlfNL3RHQFDp3oLQY1Ye9-RwMz-ikvN6TE7YNvy1T5Mzvfu4zE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSn_WrHUAsUI0Seg6Non_Lw2R03qdBpN-VlrAlZWZqXACIFvQMYYC2ciGyjtbxNqvz2Qgc8jQk4mPzrbcTYI8NoUh/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 空间站
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
